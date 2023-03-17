@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.red-font{
+    color: red;
+    text-align: center;
+}
+
+.border-blue {
+    border: solid 1 px blue;
+}
+.blue{
+    background-color: blue;
+}
